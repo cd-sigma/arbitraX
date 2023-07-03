@@ -1,0 +1,10 @@
+{
+  "rpc": {
+    "eth": "https://dawn-morning-panorama.quiknode.pro/fa3813df3669eae80d473869ef2fdfddf561b7a7/",
+    "bsc": "https://aged-patient-lambo.bsc.quiknode.pro/2dfa3e6660f2b797c43daef07ee290ad662dfdee/"
+  },
+  "chainId": {
+    "eth": "1",
+    "bsc": "56"
+  }
+}
